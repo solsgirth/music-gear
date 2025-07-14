@@ -40,14 +40,14 @@
       "brand": "Cable",
       "model": "N/A",
       "year": "N/A",
-      "type": ["acoustic", "upright", "spinet"]
+      "type": ["acoustic", "upright", "spinet", "keyboard"]
     },
     {"id": 7,
       "instrument": "piano",
       "brand": "Yamaha",
       "model": "PSR-E313",
       "year": "N/A",
-      "type": "electric"
+      "type": ["electric", "keyboard"]
     },
     {"id": 8,
       "instrument": "saxophone",
@@ -64,18 +64,18 @@
       "type": ["alto", "acoustic"]
     },
     {"id": 10,
-      "instrument": "wind synthesizer",
+      "instrument": "synthesizer",
       "brand": "Roland",
       "model": "AE-20",
       "year": "N/A",
-      "type": "electric"
+      "type": ["wind", "electric"]
     },
     {"id": 11,
       "instrument": "melodica",
       "brand": "Yamaha",
       "model": "P37D",
       "year": "N/A",
-      "type": "acoustic"
+      "type": ["acoustic", "keyboard"]
     },
     {"id": 12,
       "instrument": "cajon",
