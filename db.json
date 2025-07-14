@@ -6,77 +6,77 @@
       "model": "Jazz Bass",
       "year": "1985",
       "type": "electric"
-    }
+    },
     {"id": 2,
       "instrument": "bass guitar",
       "brand": "MusicMan",
       "model": "StingRay",
       "year": "N/A",
       "type": "electric"
-    }
+    },
     {"id": 3,
       "instrument": "double bass",
       "brand": "Kay",
       "model": "M1-B",
       "year": "1963",
       "type": "3/4 size"
-    }
+    },
     {"id": 4,
       "instrument": "bass ukelele",
       "brand": "Kala",
       "model": "U-Bass",
       "year": "N/A",
       "type": "acoustic/electric"
-    }
+    },
     {"id": 5,
       "instrument": "bass guitar",
       "brand": "Michael Kelly",
       "model": "Club Deluxe",
       "year": "N/A",
       "type": "acoustic/electric"
-    }
+    },
     {"id": 6,
       "instrument": "piano",
       "brand": "Cable",
       "model": "N/A",
       "year": "N/A",
       "type": "spinet"
-    }
+    },
     {"id": 7,
       "instrument": "elecrtic piano",
       "brand": "Yamaha",
       "model": "PSR-E313",
       "year": "N/A",
       "type": "keyboard"
-    }
+    },
     {"id": 8,
       "instrument": "saxophone",
       "brand": "Yamaha",
       "model": "YAS-62",
       "year": "N/A",
       "type": "alto"
-    }
+    },
     {"id": 9,
       "instrument": "saxophone",
       "brand": "Jupiter",
       "model": "JAS-869",
       "year": "N/A",
       "type": "alto"
-    }
+    },
     {"id": 10,
       "instrument": "wind synthesizer",
       "brand": "Roland",
       "model": "AE-20",
       "year": "N/A",
       "type": "N/A"
-    }
+    },
     {"id": 11,
       "instrument": "melodica",
       "brand": "Yamaha",
       "model": "P37D",
       "year": "N/A",
       "type": "keyboard"
-    }
+    },
     {"id": 12,
       "instrument": "cajon",
       "brand": "LP",
